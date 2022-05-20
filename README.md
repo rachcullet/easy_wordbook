@@ -55,3 +55,7 @@ README〜ER図作成: 5/24〆切
 メイン機能実装: 5/25〜6/30  
 RUNTEQ内リリース: 7/10〆切  
 本番リリース: 7/20
+
+## 画面遷移図
+
+https://www.figma.com/file/Kj113PopuHoFFOaZZi9q8w/easy_wordbook
